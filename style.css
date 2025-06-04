@@ -13,5 +13,21 @@
 body{
     width: 100%;
     height: 100vh;
-    
+    background-image: url(img/a3675213fff8ead5368bed1ac9d6ee88.jpg);
+    background-position: center;
+    background-repeat: repeat;    
+}
+
+.container{
+
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+form{
+    background-color: #bda2ed57;
+    max-width: 500px;
+    height: 450px;
+    padding: 40px;
+    border-radius: 20px;
 }
